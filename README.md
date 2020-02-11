@@ -26,8 +26,8 @@
 
 * [같은 숫자는 싫어](https://github.com/wjdrbs96/Programmers/blob/master/Level1/NotSameNumber.java)
 
-* [자연수 뒤집어 배열로 만들기]()
+* [자연수 뒤집어 배열로 만들기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/ReverseNumber.java)
 
-* [제일 작은 수 제거하기]()
+* [제일 작은 수 제거하기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/MinRemove.java)
 
-* [완주하지 못한 선수]()
+* [완주하지 못한 선수](https://github.com/wjdrbs96/Programmers/blob/master/Level1/Player.java)
