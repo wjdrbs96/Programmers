@@ -16,13 +16,18 @@
 
 * [문자열 내 p와 y의 개수](https://github.com/wjdrbs96/Programmers/blob/master/Level1/StringCount.java)
 
-* [두 정수 사이의 합]()
+* [두 정수 사이의 합](https://github.com/wjdrbs96/Programmers/blob/master/Level1/IntSum.java)
 
-* [자리수 더하기]()
+* [자리수 더하기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/DigitSum.java)
 
-* [이상한 문자 만들기]()
+* [이상한 문자 만들기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/OddString.java)
 
-* [서울에서 김서방 찾기]()
+* [서울에서 김서방 찾기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/KimFind.java)
 
-* [같은 숫자는 싫어]()
+* [같은 숫자는 싫어](https://github.com/wjdrbs96/Programmers/blob/master/Level1/NotSameNumber.java)
 
+* [자연수 뒤집어 배열로 만들기]()
+
+* [제일 작은 수 제거하기]()
+
+* [완주하지 못한 선수]()
