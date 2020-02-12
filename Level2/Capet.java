@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Level2;
 
 public class Capet {
 
