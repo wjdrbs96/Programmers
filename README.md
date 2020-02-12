@@ -34,8 +34,18 @@
 
 * [핸드폰 번호](https://github.com/wjdrbs96/Programmers/blob/master/Level1/PhoneNumber.java)
 
-* [평균 구하기]()
+* [평균 구하기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/AvgCount.java)
 
-* [약수의 합]()
+* [약수의 합](https://github.com/wjdrbs96/Programmers/blob/master/Level1/DivisorSum.java)
 
-* [수박수박수박수박수박수]()
+* [수박수박수박수박수박수](https://github.com/wjdrbs96/Programmers/blob/master/Level1/Melon.java)
+
+* [나누어 떨어지는 숫자 배열]()
+
+* [짝수와 홀수]()
+
+### Level 2
+
+* [숫자의 표현]()
+
+
