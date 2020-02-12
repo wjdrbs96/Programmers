@@ -33,3 +33,9 @@
 * [완주하지 못한 선수](https://github.com/wjdrbs96/Programmers/blob/master/Level1/Player.java)
 
 * [핸드폰 번호](https://github.com/wjdrbs96/Programmers/blob/master/Level1/PhoneNumber.java)
+
+* [평균 구하기]()
+
+* [약수의 합]()
+
+* [수박수박수박수박수박수]()
