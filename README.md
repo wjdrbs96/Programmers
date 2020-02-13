@@ -52,6 +52,12 @@
 
 * [하샤드 수]()
 
+* [정수 제곱근 판별]()
+
+* [콜라츠 추측]()
+
+* [행렬의 덧셈]()
+
 ### Level 2
 
 * [숫자의 표현](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NumberExpre.java)

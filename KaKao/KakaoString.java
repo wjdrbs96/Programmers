@@ -25,5 +25,6 @@ public class KakaoString {
                 }
             }
         }
+        return 1;
     }
 }
