@@ -46,6 +46,12 @@
 
 * [문자열 다루기 기본](https://github.com/wjdrbs96/Programmers/blob/master/Level1/StringTrue.java)
 
+* [x만큼 간격이 있는 n개의 숫자]()
+
+* [시저암호]()
+
+* [하샤드 수]()
+
 ### Level 2
 
 * [숫자의 표현](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NumberExpre.java)
