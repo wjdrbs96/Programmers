@@ -46,17 +46,17 @@
 
 * [문자열 다루기 기본](https://github.com/wjdrbs96/Programmers/blob/master/Level1/StringTrue.java)
 
-* [x만큼 간격이 있는 n개의 숫자]()
+* [x만큼 간격이 있는 n개의 숫자](https://github.com/wjdrbs96/Programmers/blob/master/Level1/NNumber.java)
 
-* [시저암호]()
+* [시저암호](https://github.com/wjdrbs96/Programmers/blob/master/Level1/Secret.java)
 
-* [하샤드 수]()
+* [하샤드 수](https://github.com/wjdrbs96/Programmers/blob/master/Level1/HaShad.java)
 
-* [정수 제곱근 판별]()
+* [정수 제곱근 판별](https://github.com/wjdrbs96/Programmers/blob/master/Level1/MathPow.java)
 
-* [콜라츠 추측]()
+* [콜라츠 추측](https://github.com/wjdrbs96/Programmers/blob/master/Level1/Colach.java)
 
-* [행렬의 덧셈]()
+* [행렬의 덧셈](https://github.com/wjdrbs96/Programmers/blob/master/Level1/MatrixSum.java)
 
 ### Level 2
 
