@@ -78,6 +78,14 @@
 
 * [최대값과 최소값](https://github.com/wjdrbs96/Programmers/blob/master/Level2/MaxMin.java)
 
+* [더 맵게]()
+
+* [다음 큰 숫자]()
+
+* [위장]()
+
+
+
 
 
 
