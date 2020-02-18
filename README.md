@@ -62,6 +62,8 @@
 
 * [정수 내림차순으로 배치하기](https://github.com/wjdrbs96/Programmers/blob/master/Level1/IntDSC.java)
 
+* [직사각형 별찍기]()
+
 ### Level 2
 
 * [숫자의 표현](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NumberExpre.java)
@@ -78,13 +80,13 @@
 
 * [최대값과 최소값](https://github.com/wjdrbs96/Programmers/blob/master/Level2/MaxMin.java)
 
-* [더 맵게]()
+* [더 맵게](https://github.com/wjdrbs96/Programmers/blob/master/Level2/Spicy.java)
 
-* [다음 큰 숫자]()
+* [다음 큰 숫자](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NextMax.java)
 
-* [위장]()
+* [위장](https://github.com/wjdrbs96/Programmers/blob/master/Level2/WeJang.java)
 
-* [전화번호 목록]()
+* [전화번호 목록](https://github.com/wjdrbs96/Programmers/blob/master/Level2/PhoneNumberList.java)
 
 
 
