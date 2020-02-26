@@ -88,7 +88,9 @@
 
 * [전화번호 목록](https://github.com/wjdrbs96/Programmers/blob/master/Level2/PhoneNumberList.java)
 
-* [H-Index]() 
+* [H-Index](https://github.com/wjdrbs96/Programmers/blob/master/Level2/HIndex.java) 
+
+* [N개의 최소공배수]()
 
 
 
