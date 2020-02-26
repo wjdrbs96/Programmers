@@ -90,7 +90,9 @@
 
 * [H-Index](https://github.com/wjdrbs96/Programmers/blob/master/Level2/HIndex.java) 
 
-* [N개의 최소공배수]()
+* [N개의 최소공배수](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NLCM.java)
+
+* [최솟값 만들기]()
 
 
 
