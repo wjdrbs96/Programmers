@@ -108,10 +108,11 @@
 
 * [역순 정렬하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/SortDesc.sql)
 
-* [최댓값 구하기]()
+* [최댓값 구하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/findMaxColumn.sql)
 
+* [상위 n개 레코드]()
 
+* [어린 동물 찾기]()
 
-
-
+* [여러 기준으로 정렬하기]()
 
