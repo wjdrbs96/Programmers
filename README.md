@@ -134,4 +134,6 @@
 
 * [동명 동물 수 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/SameNameAnimalFind.sql)
 
-* [고양이와 개는 몇마리 있을까]()
+* [고양이와 개는 몇마리 있을까](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/CatDogHowMany.sql)
+
+* [NULL 처리하기]()
