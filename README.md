@@ -96,7 +96,7 @@
 
 * [N개의 최소공배수](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NLCM.java)
 
-* [최솟값 만들기]()
+* [최솟값 만들기](https://github.com/wjdrbs96/Programmers/blob/master/Level2/MakeMin.java)
 
 ---
 
@@ -105,6 +105,8 @@
 ### Level1
 
 * [모든 레코드 조회하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/AllRecordView.sql)
+
+* [역순 정렬하기]()
 
 
 
