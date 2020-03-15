@@ -130,6 +130,8 @@
 
 * [중복 제거하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/RemoveOverlap.sql)
 
-* [동물 수 구하기]()
+* [동물 수 구하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/CountAnimal.sql)
 
-* [동명 동물 수 찾기]()
+* [동명 동물 수 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/SameNameAnimalFind.sql)
+
+* [고양이와 개는 몇마리 있을까]()
