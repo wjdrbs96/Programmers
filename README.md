@@ -110,9 +110,16 @@
 
 * [최댓값 구하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/findMaxColumn.sql)
 
-* [상위 n개 레코드]()
+* [상위 n개 레코드](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/Nrecord.sql)
 
-* [어린 동물 찾기]()
+* [어린 동물 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/youngAnimalfind.sql)
 
-* [여러 기준으로 정렬하기]()
+* [여러 기준으로 정렬하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/manySort.sql)
 
+* [아픈 동물 찾기]()
+
+* [동물의 아이디와 이름]()
+
+* [이름이 없는 동물의 아이디]()
+
+* [이름이 있는 동물의 아이디]()
