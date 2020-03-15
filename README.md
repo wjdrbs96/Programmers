@@ -116,10 +116,10 @@
 
 * [여러 기준으로 정렬하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/manySort.sql)
 
-* [아픈 동물 찾기]()
+* [아픈 동물 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/sickAnimalFind.sql)
 
-* [동물의 아이디와 이름]()
+* [동물의 아이디와 이름](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/animalIDName.sql)
 
-* [이름이 없는 동물의 아이디]()
+* [이름이 없는 동물의 아이디](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/animalNameNull.sql)
 
-* [이름이 있는 동물의 아이디]()
+* [이름이 있는 동물의 아이디](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/animalNameNotNull.sql)
