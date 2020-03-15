@@ -1,6 +1,8 @@
-# [📖Programmers Algorithm](https://programmers.co.kr/learn/challenges)
+# [📖Programmers](https://programmers.co.kr/learn/challenges)
 
     📄프로그래머스 문제를 풀고 올리는 공간입니다. 
+
+## Algorithm
 
 ### Level 1
 
@@ -95,6 +97,8 @@
 * [N개의 최소공배수](https://github.com/wjdrbs96/Programmers/blob/master/Level2/NLCM.java)
 
 * [최솟값 만들기]()
+
+---
 
 ## SQL 
 
