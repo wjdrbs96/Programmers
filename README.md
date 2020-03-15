@@ -104,7 +104,7 @@
 
 ### Level1
 
-* [모든 레코드 조회하기]()
+* [모든 레코드 조회하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/AllRecordView.sql)
 
 
 
