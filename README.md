@@ -106,9 +106,9 @@
 
 * [모든 레코드 조회하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/AllRecordView.sql)
 
-* [역순 정렬하기]()
+* [역순 정렬하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/SortDesc.sql)
 
-
+* [최댓값 구하기]()
 
 
 
