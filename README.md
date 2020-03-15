@@ -123,3 +123,10 @@
 * [이름이 없는 동물의 아이디](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/animalNameNull.sql)
 
 * [이름이 있는 동물의 아이디](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level1/animalNameNotNull.sql)
+
+### Level2
+
+* [최솟값 구하기]()
+
+* [중복 제거하기]()
+
