@@ -126,7 +126,10 @@
 
 ### Level2
 
-* [최솟값 구하기]()
+* [최솟값 구하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/MinRecord.sql)
 
-* [중복 제거하기]()
+* [중복 제거하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/RemoveOverlap.sql)
 
+* [동물 수 구하기]()
+
+* [동명 동물 수 찾기]()
