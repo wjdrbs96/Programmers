@@ -145,5 +145,6 @@
 
 * [없어진 기록 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NullFindRecord.sql)
 
-* [오랜 기간 보호한 동물(1)]()
+* [오랜 기간 보호한 동물(1)](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/LongSaveAnimal.sql)
 
+* [있었는데요 없었습니다]() 
