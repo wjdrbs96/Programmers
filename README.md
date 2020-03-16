@@ -138,9 +138,9 @@
 
 * [NULL 처리하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/IFNULL.sql)
 
-* [입양 시각 구하기(1)]()
+* [입양 시각 구하기(1)](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/TimeCount.sql)
 
 
 ### Level3
 
-* [없어진 기록 찾기]()
+* [없어진 기록 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NullFindRecord.sql)
