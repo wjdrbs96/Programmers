@@ -149,5 +149,5 @@
 
 * [있었는데요 없었습니다](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NotNullAfterNull.sql)
 
-* [보호소에서 중성화한 동물]()
+* [보호소에서 중성화한 동물](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level4/SaveNeutered.sql)
  
