@@ -140,9 +140,9 @@
 
 * [입양 시각 구하기(1)](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/TimeCount.sql)
 
-* [이름에 el이 들어가는 동물 찾기]()
+* [이름에 el이 들어가는 동물 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/NameInElAnimal.sql)
 
-* [루시와 엘라 찾기]()
+* [루시와 엘라 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/LucyEllaFind.sql)
 
 ### Level3
 
