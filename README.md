@@ -140,6 +140,9 @@
 
 * [입양 시각 구하기(1)](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/TimeCount.sql)
 
+* [이름에 el이 들어가는 동물 찾기]()
+
+* [루시와 엘라 찾기]()
 
 ### Level3
 
@@ -149,5 +152,9 @@
 
 * [있었는데요 없었습니다](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NotNullAfterNull.sql)
 
-* [보호소에서 중성화한 동물](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level4/SaveNeutered.sql)
+### Level4
+
+* [보호소에서 중성화한 동물](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level4/SaveNeutered.sql) 
+
+ 
  
