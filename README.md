@@ -144,6 +144,8 @@
 
 * [루시와 엘라 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/LucyEllaFind.sql)
 
+* [중성화 여부 파악하기]()
+
 ### Level3
 
 * [없어진 기록 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NullFindRecord.sql)
