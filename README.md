@@ -144,7 +144,9 @@
 
 * [루시와 엘라 찾기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/LucyEllaFind.sql)
 
-* [중성화 여부 파악하기]()
+* [중성화 여부 파악하기](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/IntakeCheck.sql)
+
+* [DATETIME에서 DATE로 형 변환]()
 
 ### Level3
 
