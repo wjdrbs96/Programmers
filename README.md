@@ -160,7 +160,7 @@
 
 * [있었는데요 없었습니다](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/NotNullAfterNull.sql)
 
-* [오랜 기간 보호한 동물(2)]() 
+* [오랜 기간 보호한 동물(2)](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level3/LongSaveAnimal2.sql) 
 
 
 ### Level4
