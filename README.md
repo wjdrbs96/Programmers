@@ -111,7 +111,7 @@
 
 ### 2018 2018 KAKAO BLIND RECRUITMENT 
 
-* [[1차]비밀번호]()
+* [[1차]비밀번호](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/KAKAO_BLIND_RECRUITMENT_2018/SecretMap.java)
 
 
 ---
