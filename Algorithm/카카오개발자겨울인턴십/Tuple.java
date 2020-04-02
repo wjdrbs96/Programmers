@@ -1,4 +1,4 @@
-package Programmers.Algorithm.카카오개발자겨울인터십;
+package Programmers.Algorithm.카카오개발자겨울인턴십;
 
 import java.util.*;
 
