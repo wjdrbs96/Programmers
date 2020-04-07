@@ -128,7 +128,7 @@
 
 ### 2018 2018 KAKAO BLIND RECRUITMENT 
 
-* [문자열 압축]()
+* [문자열 압축](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/KAKAO_BLIND_RECRUITMENT_2020/StringCompress.java)
 
 ---
 
