@@ -12,7 +12,7 @@ public class StringCompress {
 
             for (int j = 0; j < len; j += i) {
                 if (len - j < i) {                       // i + j > s.length() 보다 클 때 예외처리
-                    sb.append(s.substring(j, len));
+                    sb.append(s, j, len);
                     break;
                 }
 
