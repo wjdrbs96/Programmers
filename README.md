@@ -121,7 +121,7 @@
 
 ### 2019 KAKAO BLIND RECRUITMENT 
 
-* [실패율]()
+* [실패율](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/KAKAO_BLIND_RECUITMENT_2019/Solution.java)
 
 
 ### 2020 KAKAO BLIND RECRUITMENT 
