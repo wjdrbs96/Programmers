@@ -119,6 +119,8 @@
 
 * [[1차] 다트 게임](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/KAKAO_BLIND_RECRUITMENT_2018/DartGame.java)
 
+* [[1차]뉴스 클러스터링]()
+
 ### 2019 KAKAO BLIND RECRUITMENT 
 
 * [실패율](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/KAKAO_BLIND_RECUITMENT_2019/Solution.java)
