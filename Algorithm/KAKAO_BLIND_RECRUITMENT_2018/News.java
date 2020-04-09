@@ -62,7 +62,7 @@ public class News {
 
 
     public static void main(String[] args) {
-        System.out.println(solution("E=M*C^12", "e=m*c^22"));
+        System.out.println(solution("E=M*C^1abc2", "e=m*c^2defg2"));
         //System.out.println(solution("handshake", "shake hands"));
         //System.out.println(solution("aa1+aa2", "AAAA12"));
         //System.out.println(solution("FRANCE", "french"));
