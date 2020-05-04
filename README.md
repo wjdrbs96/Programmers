@@ -68,7 +68,7 @@
 
 * [직사각형 별찍기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level1/LectangleStar.java)
 
-* [모의고사]()
+* [모의고사](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level1/Exam.java)
 
 ### Level 2
 
@@ -106,7 +106,7 @@
 
 * [타겟 넘버](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/TargetNumber.java)
 
-* [프린터]()
+* [프린터](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Printer.java)
 
 
 ### Summer/Winter Coding(~2018)
