@@ -70,7 +70,7 @@
 
 * [모의고사](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level1/Exam.java)
 
-* [체육복]()
+* [체육복](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level1/Physical.java)
 
 ### Level 2
 
