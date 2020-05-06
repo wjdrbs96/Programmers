@@ -1,9 +1,9 @@
-package Programmers.Level1;
+package Programmers.Algorithm.Level1;
 
 class Solution {
     public int solution(int n) {
         int answer = 0;
-        int[] number = new int[n+1];
+        int[] number = new int[n + 1];
 
         //2부터 n까지의 수를 배열에 넣는다.
         for(int i = 2; i <= n; i++) {

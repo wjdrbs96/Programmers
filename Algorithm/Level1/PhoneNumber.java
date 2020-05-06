@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Algorithm.Level1;
 
 public class PhoneNumber {
     public static String solution(String phone_nunber) {
