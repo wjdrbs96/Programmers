@@ -106,7 +106,7 @@
 
 * [기능개발](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Develop.java)
 
-* [타겟 넘버](https://g  ithub.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/TargetNumber.java)
+* [타겟 넘버](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/TargetNumber.java)
 
 * [프린터](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Printer.java)
 
