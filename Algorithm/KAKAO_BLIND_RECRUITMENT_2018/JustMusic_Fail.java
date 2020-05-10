@@ -12,7 +12,7 @@ class Save {
     }
 }
 
-public class JustMusic {
+public class JustMusic_Fail {
     public static String solution(String m, String[] musicinfos) {
 
         List<Save> list = new ArrayList<>();
