@@ -23,6 +23,7 @@ public class Exam {
             }
         }
 
+        // 제일 많이 맞힌 사람 구하기
         int max = cnt[0];
         for (int i = 0; i < cnt.length; ++i) {
             if (max < cnt[i]) {
@@ -32,8 +33,10 @@ public class Exam {
 
         List<Integer> list = new ArrayList<>();
 
+        // 많이 맞힌 사람이 여러명일 경우
         for (int i = 0; i < cnt.length; ++i) {
             if (max == cnt[i]) {
+                // 해당 인덱스를 저장
                 list.add(i);
             }
         }
@@ -41,6 +44,7 @@ public class Exam {
         int[] answer = new int[list.size()];
 
         for (int i = 0; i < list.size(); ++i) {
+            // 인덱스를 저장해서 0번 인덱스는 1번 이기 때문에 + 1
             answer[i] = list.get(i) + 1;
         }
 
