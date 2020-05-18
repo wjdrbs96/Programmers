@@ -114,6 +114,7 @@
 
 * [주식가격](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Stock.java)
 
+* [쇠막대기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/FeStick.java)
 
 ### Level 3
 
@@ -217,7 +218,6 @@
 
 * [DATETIME에서 DATE로 형 변환](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/DateToDateTime.sql)
 
-* [쇠막대기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/FeStick.java)
 
 ### Level3
 
