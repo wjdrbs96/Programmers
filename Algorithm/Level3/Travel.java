@@ -1,8 +1,10 @@
-package Programmers.Algorithm.Level2;
+package Programmers.Algorithm.Level3;
 
 public class Travel {
     public static String[] solution(String[][] tickets) {
         String[] answer = {};
+
+
 
         return answer;
     }
