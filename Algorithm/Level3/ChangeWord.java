@@ -28,7 +28,6 @@ public class ChangeWord {
         return answer;
     }
 
-
     // 단어의 알파벳 차이가 1개만 나면 true, 2개이상이면 false
     static boolean wordCheck(String start, String end) {
         int count = 0;
