@@ -122,7 +122,7 @@
 
 * [폰켓몬](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/PhoneKeyMon.java)
 
-* [숫자야구]()
+* [숫자야구](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/BaseBall.java)
 
 ### Level 3
 
