@@ -9,6 +9,6 @@ public class Travel {
 
     public static void main(String[] args) {
         String[][] list = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
-        solution(list);
+        System.out.println(solution(list));
     }
 }

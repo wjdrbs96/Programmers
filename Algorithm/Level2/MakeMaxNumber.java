@@ -2,7 +2,6 @@ package Programmers.Algorithm.Level2;
 
 public class MakeMaxNumber {
     public static String solution(String number, int k) {
-        String answer = "";
         char max;
         int idx = 0;
         StringBuilder sb = new StringBuilder();
