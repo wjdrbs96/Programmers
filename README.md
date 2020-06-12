@@ -124,7 +124,7 @@
 
 * [숫자야구](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/BaseBall.java)
 
-* [구명보트]()
+* [구명보트](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Boat.java)
 
 
 ### Level 3
