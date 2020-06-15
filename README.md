@@ -126,6 +126,7 @@
 
 * [구명보트](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/Boat.java)
 
+* [행렬의 곱셈](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/MatrixMul.java)
 
 ### Level 3
 
