@@ -239,6 +239,8 @@
 
 * [DATETIME에서 DATE로 형 변환](https://github.com/wjdrbs96/Programmers/blob/master/SQL/Level2/DateToDateTime.sql)
 
+* [소수 찾기]()
+
 
 ### Level3
 
