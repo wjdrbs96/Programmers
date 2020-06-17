@@ -128,6 +128,8 @@
 
 * [행렬의 곱셈](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/MatrixMul.java)
 
+* [소수 찾기]()
+
 ### Level 3
 
 * [네트워크](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level3/Network.java)
