@@ -128,7 +128,7 @@
 
 * [행렬의 곱셈](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/MatrixMul.java)
 
-* [소수 찾기]()
+* [소수 찾기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/FindPrimeNumber.java)
 
 ### Level 3
 
