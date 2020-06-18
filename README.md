@@ -152,7 +152,7 @@
 
 * [스킬트리](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/SkillTree.java)
 
-* [소수 만들기]()
+* [소수 만들기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/MakePrime.java)
 
 ### 2017 팁스타운
 
