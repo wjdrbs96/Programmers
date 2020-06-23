@@ -130,7 +130,7 @@
 
 * [소수 찾기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/FindPrimeNumber.java)
 
-* [땅따먹기]()
+* [땅따먹기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/LandEat.java)
 
 ### Level 3
 
