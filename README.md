@@ -132,7 +132,7 @@
 
 * [땅따먹기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/LandEat.java)
 
-* [조이스틱]()
+* [조이스틱](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level2/JoyStick.java)
 
 ### Level 3
 

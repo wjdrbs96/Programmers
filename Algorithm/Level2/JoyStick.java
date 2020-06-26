@@ -25,6 +25,7 @@ public class JoyStick {
                 }
 
                 // (i - 1) * 2 = A 이전까지 문자의 왕복 이동 횟수
+                // 29, 30줄 이해가 안됨
                 int tmp = (i - 1) * 2 + (name.length() - 1 - i - countA);
                 if (exp > tmp) exp = tmp;
             }
