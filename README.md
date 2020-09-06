@@ -160,7 +160,7 @@
 
 * [소수 만들기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/MakePrime.java)
 
-* [점프와 순간 이동]()
+* [점프와 순간 이동](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/JumpTeleport.java)
 
 ### 2017 팁스타운
 
