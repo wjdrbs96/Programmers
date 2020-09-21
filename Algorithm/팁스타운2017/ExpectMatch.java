@@ -12,7 +12,6 @@ public class ExpectMatch {
             b = tmp;
         }
 
-        // 반복문으로 이진탐색 구현
         while (n > 1) {
             if ((a % 2 == 0 && b % 2 != 0 && a - b == 1) || (a % 2 != 0 && b % 2 == 0 && b - a == 1)) {
                 break;
