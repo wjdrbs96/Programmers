@@ -1,5 +1,6 @@
 package Programmers.Algorithm.카카오개발자겨울인턴십;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -55,7 +56,7 @@ public class BannedUser {
 
     public static void main(String[] args) {
         String[] a = {"frodo", "fradi", "crodo", "abc123", "frodoc"};
-        String[] b = {"fr*d*", "abc1**"};
+        String[] b = {"*rodo", "*rodo", "******"};
         System.out.println(solution(a, b));
     }
 }
