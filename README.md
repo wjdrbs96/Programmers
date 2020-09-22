@@ -164,7 +164,7 @@
 
 * [방문길이](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/VisitLength.java)
 
-* [멀쩡한 사각형]()
+* [멀쩡한 사각형](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Summer_Winter_Coding/Square.java)
 
 ### 2017 팁스타운
 
