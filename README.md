@@ -150,7 +150,7 @@
 
 * [가장 긴 팰린드롬](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level3/LongPalindrome.java)
 
-* [가장 먼 노드]()
+* [가장 먼 노드](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level3/FarthestNode.java)
 
 ### Summer/Winter Coding(~2018)
 
