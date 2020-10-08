@@ -14,6 +14,7 @@ public class TargetNumber_3 {
         // 처음부터 끝까지 탐색
         if (k == numbers.length) {
             int sum = 0;
+
             for (int n : numbers) {
                 sum += n;
             }
@@ -30,7 +31,7 @@ public class TargetNumber_3 {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {1, 1, 1, 1, 1};
-        System.out.println(solution(numbers, 3));
+        int[] numbers = {1, 1, 1, 1, 1, 1};
+        System.out.println(solution(numbers, 2));
     }
 }
