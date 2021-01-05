@@ -211,7 +211,7 @@
 
 * [두 개 뽑아서 더하기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C1/TwoNumberSum.java)
 
-* [3진법 뒤집기]()
+* [3진법 뒤집기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C1/ThreeBub.java)
 
 ---
 
