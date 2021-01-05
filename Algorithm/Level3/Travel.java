@@ -22,7 +22,7 @@ public class Travel {
                 dfs(tickets, end, 1);
             }
         }
-
+        
         Collections.sort(list);
         String[] answer = list.get(0).split(",");
 
@@ -51,8 +51,9 @@ public class Travel {
     }
 
     public static void main(String[] args) {
-        String[][] list = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
-        String[] answer = solution(list);
+        String[][] tickets = {{"ICN", "SFO"}, {"ICN", "ATL"}, {"SFO", "ATL"}, {"ATL", "ICN"}, {"ATL","SFO"}};
+        //String[][] list = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
+        String[] answer = solution(tickets);
 
         for (String s : answer) {
             System.out.println(s);
