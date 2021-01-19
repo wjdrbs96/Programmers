@@ -152,7 +152,7 @@
 
 * [가장 먼 노드](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level3/FarthestNode.java)
 
-* [베스트 앨범]()
+* [베스트 앨범](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/Level3/BestAlbum.java)
 
 ### Summer/Winter Coding(~2018)
 
