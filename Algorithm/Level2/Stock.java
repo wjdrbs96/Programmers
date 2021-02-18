@@ -9,8 +9,7 @@ public class Stock {
             for (int j = i + 1; j < prices.length; ++j) {
                 if (prices[i] <= prices[j]) {
                     count++;
-                }
-                else {
+                } else {
                     count++;
                     break;
                 }

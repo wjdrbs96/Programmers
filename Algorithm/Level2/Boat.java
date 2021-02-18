@@ -14,8 +14,7 @@ public class Boat {
             if (people[i] + people[j] <= limit) {
                 answer++;
                 i++;
-            }
-            else {
+            } else {
                 answer++;
             }
         }

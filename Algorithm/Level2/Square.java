@@ -12,9 +12,8 @@ public class Square {
         }
 
         if (w < h) {
-            
-        }
 
+        }
 
 
         return answer;

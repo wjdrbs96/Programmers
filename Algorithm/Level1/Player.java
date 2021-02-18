@@ -33,6 +33,6 @@ public class Player {
     public static void main(String[] args) {
         String[] p = {"mislav", "stanko", "mislav", "ana"};
         String[] c = {"stanko", "ana", "mislav"};
-        System.out.println(solution(p,c));
+        System.out.println(solution(p, c));
     }
 }

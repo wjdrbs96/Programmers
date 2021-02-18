@@ -12,12 +12,10 @@ public class FeStick {
                 if (arrangement.charAt(i + 1) == ')') {
                     count += stack.size();
                     i = i + 1;
-                }
-                else {
+                } else {
                     stack.push(arrangement.charAt(i));
                 }
-            }
-            else {
+            } else {
                 count += 1;
                 stack.pop();
             }

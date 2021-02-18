@@ -11,8 +11,7 @@ public class Develop {
         for (int i = 0; i < progresses.length; ++i) {
             if ((100 - progresses[i]) % speeds[i] == 0) {
                 answer[i] = (100 - progresses[i]) / speeds[i];
-            }
-            else {
+            } else {
                 answer[i] = (100 - progresses[i]) / speeds[i] + 1;
             }
         }

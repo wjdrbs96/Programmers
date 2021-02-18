@@ -19,7 +19,7 @@ public class Top {
 
     public static void main(String[] args) {
         //int[] heights = {6, 9, 5, 7, 4};
-        int[] heights = {3,9,9,3,5,7,2};
+        int[] heights = {3, 9, 9, 3, 5, 7, 2};
         solution(heights);
     }
 }

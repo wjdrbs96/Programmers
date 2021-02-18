@@ -8,8 +8,7 @@ public class Colach {
             if (num % 2 == 0) {
                 num = num / 2;
                 count++;
-            }
-            else {
+            } else {
                 num = num * 3 + 1;
                 count++;
             }

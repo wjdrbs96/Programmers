@@ -15,8 +15,7 @@ public class KakaoString {
                 if (a.equals(b)) {
                     count++;
                     continue;
-                }
-                else {
+                } else {
                     if (count > 1) {
 
                     } else {

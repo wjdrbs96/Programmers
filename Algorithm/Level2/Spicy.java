@@ -11,7 +11,7 @@ public class Spicy {
             pq.offer(scoville[i]);
         }
 
-        int a = 0, b = 0, c =0;
+        int a = 0, b = 0, c = 0;
         while (pq.peek() < K) {
             if (pq.size() == 1) {
                 return -1;
@@ -27,12 +27,12 @@ public class Spicy {
             return count;
         }
 
-         return -1;
+        return -1;
 
     }
 
     public static void main(String[] args) {
-        int[] s = {1,2,3,9,10,12};
+        int[] s = {1, 2, 3, 9, 10, 12};
         System.out.println(solution(s, 7));
     }
 }

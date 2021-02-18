@@ -10,16 +10,15 @@ public class Secret {
                 sb.append(' ');
                 continue;
             }
-            k = ((int)s.charAt(i) + n);
+            k = ((int) s.charAt(i) + n);
 
             if (k > 90 && k < 97) {
                 k = k - 26;
-            }
-            else if (k > 122) {
-                k = k -26;
+            } else if (k > 122) {
+                k = k - 26;
             }
 
-            char a = (char)(k);
+            char a = (char) (k);
             sb.append(a);
         }
 

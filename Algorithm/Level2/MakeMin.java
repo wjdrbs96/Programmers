@@ -19,8 +19,8 @@ public class MakeMin {
     }
 
     public static void main(String[] args) {
-        int[] A = {1,2};
-        int[] B = {3,4};
+        int[] A = {1, 2};
+        int[] B = {3, 4};
         System.out.println(solution(A, B));
     }
 }

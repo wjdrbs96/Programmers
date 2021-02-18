@@ -30,8 +30,7 @@ public class BaseBall {
                     for (int q = 0; q < b.length(); ++q) {
                         if (a.charAt(p) - b.charAt(q) == 0 && p == q) {
                             strike++;
-                        }
-                        else if (a.charAt(p) - b.charAt(q) == 0 && p != q) {
+                        } else if (a.charAt(p) - b.charAt(q) == 0 && p != q) {
                             ball++;
                         }
                     }
@@ -39,9 +38,7 @@ public class BaseBall {
 
                 if (strike == baseball[j][1] && ball == baseball[j][2]) {
                     count++;
-                }
-
-                else if (strike != baseball[j][1] || ball != baseball[j][2]) {
+                } else if (strike != baseball[j][1] || ball != baseball[j][2]) {
                     break;
                 }
 

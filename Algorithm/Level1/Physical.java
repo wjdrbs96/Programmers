@@ -32,7 +32,7 @@ public class Physical {
     }
 
     public static void main(String[] args) {
-        int[] l = {4 ,5};
+        int[] l = {4, 5};
         int[] r = {3, 4};
         System.out.println(solution(5, l, r));
     }

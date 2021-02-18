@@ -7,7 +7,7 @@ public class ReverseNumber {
 
         int l = 0;
         while (n > 0) {
-            answer[l++] = (int)(n % 10);
+            answer[l++] = (int) (n % 10);
             n = n / 10;
 
         }

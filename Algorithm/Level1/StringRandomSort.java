@@ -3,7 +3,7 @@ package Programmers.Algorithm.Level1;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class StringRandomSort{
+public class StringRandomSort {
 
     public static String[] solution(String[] strings, int n) {
         Arrays.sort(strings, new Comparator<String>() {
