@@ -219,7 +219,7 @@
 
 * [키패드 누르기](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/%EC%B9%B4%EC%B9%B4%EC%98%A42020%EC%9D%B8%ED%84%B4%EC%8B%AD/KeyPad.java)
 
-* [수식 최대화]()
+* [수식 최대화](https://github.com/wjdrbs96/Programmers/blob/master/Algorithm/%EC%B9%B4%EC%B9%B4%EC%98%A42020%EC%9D%B8%ED%84%B4%EC%8B%AD/SusikMax.java)
 
 ### 월간 코드 챌린지 시즌1
 
